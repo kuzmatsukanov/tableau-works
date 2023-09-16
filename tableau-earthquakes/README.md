@@ -1,4 +1,4 @@
-# Earthquake Data Dashboard
+# [Earthquake Data Dashboard](https://public.tableau.com/app/profile/kuzma.tsukanov/viz/Earthquakes_in_israel/Dashboard_Earthquakes)
 
 ## Overview
 
